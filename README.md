@@ -3,9 +3,9 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVlYnBjcW55NnhyYWQzZzB3cjcxaXc4aW9qZTRyNDZ4eDhkdWJjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohs4BSacFKI7A717y/giphy.gif" />
 
-- 🌱 I’m currently learning **Wordpress, Flutter**
-
-- 🧑‍🎓 I’m an Undergraduate at **University of Hertfordshire**
+- 🧑‍🎓 I’m a Computer Science (Artificial Intelligence) undergraduate at **University of Hertfordshire**
+  
+- 🌱 I am currently developing a Fashion AI project that combines computer vision, deep learning, and recommendation systems to support intelligent outfit matching and wardrobe management. My work involves image preprocessing, object detection, and model-based decision logic, while strengthening my analytical thinking and problem-solving skills.
 
 - 📫 How to reach me **sawiotokch@gmail.com**
 
