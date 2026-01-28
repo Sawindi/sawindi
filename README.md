@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Wordpress, Flutter**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **University of Hertfordshire**
 
 - 📫 How to reach me **sawiotokch@gmail.com**
 
