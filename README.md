@@ -7,7 +7,7 @@ Computer Science (Artificial Intelligence) | AI & Machine Learning Enthusiast
 Passionate about Artificial Intelligence, Computer Vision, Machine Learning, and building intelligent systems that solve real-world problems.
 </p>
 
-<img align="right" width="300px" alt="AI Girl" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVlYnBjcW55NnhyYWQzZzB3cjcxaXc4aW9qZTRyNDZ4eDhkdWJjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width="300px" alt="Cute Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVlYnBjcW55NnhyYWQzZzB3cjcxaXc4aW9qZTRyNDZ4eDhkdWJjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ---
 
