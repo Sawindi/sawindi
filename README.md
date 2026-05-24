@@ -18,7 +18,7 @@ Passionate about Artificial Intelligence, Computer Vision, Machine Learning, and
 - 👗 Developed an **AI Fashion Recommendation System** using computer vision and deep learning techniques
 - 🧠 Experienced with **Sentiment Analysis, Reinforcement Learning, Recommendation Systems, and Data Analytics**
 - 💡 Passionate about combining creativity with technology to build impactful AI solutions
-- 🌱 Currently expanding my skills in **Generative AI, MLOps, and AI Engineering**
+- 🌱 Currently expanding my skills in **Generative AI, and Prompt Engineering**
 - 📫 Reach me at: **sawiotokch@gmail.com**
 
 ---
